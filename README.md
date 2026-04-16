@@ -4,249 +4,124 @@
 
 ## Part 1: Data Augmentation and Generalization Techniques
 
-### A. L1/L2 Regularization
+### Part 1a — L1/L2 Regularization
 
-#### TensorFlow Implementation
-- **Colab Notebook**: [L1/L2 Regularization — TensorFlow](COLAB_LINK_HERE)
-- **Video Explanation**: [L1/L2 Regularization — TensorFlow](YOUTUBE_LINK_HERE)
+- **Colab Notebook**: [Part1a — L1/L2 Regularization (TensorFlow & PyTorch)](COLAB_LINK_HERE)
+- **Video Explanation**: [Part1a — L1/L2 Regularization](YOUTUBE_LINK_HERE)
 
-#### PyTorch Implementation
-- **Colab Notebook**: [L1/L2 Regularization — PyTorch](COLAB_LINK_HERE)
-- **Video Explanation**: [L1/L2 Regularization — PyTorch](YOUTUBE_LINK_HERE)
+### Part 1b — Dropout
 
-### B. Dropout
+- **Colab Notebook**: [Part1b — Dropout Regularization (TensorFlow & PyTorch)](COLAB_LINK_HERE)
+- **Video Explanation**: [Part1b — Dropout Regularization](YOUTUBE_LINK_HERE)
 
-#### TensorFlow Implementation
-- **Colab Notebook**: [Dropout Regularization — TensorFlow](COLAB_LINK_HERE)
-- **Video Explanation**: [Dropout Regularization — TensorFlow](YOUTUBE_LINK_HERE)
+### Part 1c — Early Stopping
 
-#### PyTorch Implementation
-- **Colab Notebook**: [Dropout Regularization — PyTorch](COLAB_LINK_HERE)
-- **Video Explanation**: [Dropout Regularization — PyTorch](YOUTUBE_LINK_HERE)
+- **Colab Notebook**: [Part1c — Early Stopping (TensorFlow & PyTorch)](COLAB_LINK_HERE)
+- **Video Explanation**: [Part1c — Early Stopping](YOUTUBE_LINK_HERE)
 
-### C. Early Stopping
+### Part 1d — Monte Carlo Dropout
 
-#### TensorFlow Implementation
-- **Colab Notebook**: [Early Stopping — TensorFlow](COLAB_LINK_HERE)
-- **Video Explanation**: [Early Stopping — TensorFlow](YOUTUBE_LINK_HERE)
+- **Colab Notebook**: [Part1d — Monte Carlo Dropout (TensorFlow & PyTorch)](COLAB_LINK_HERE)
+- **Video Explanation**: [Part1d — Monte Carlo Dropout](YOUTUBE_LINK_HERE)
 
-#### PyTorch Implementation
-- **Colab Notebook**: [Early Stopping — PyTorch](COLAB_LINK_HERE)
-- **Video Explanation**: [Early Stopping — PyTorch](YOUTUBE_LINK_HERE)
+### Part 1e — Weight Initialization Techniques
 
-### D. Monte Carlo Dropout
+- **Colab Notebook**: [Part1e — Weight Initialization Strategies (TensorFlow & PyTorch)](COLAB_LINK_HERE)
+- **Video Explanation**: [Part1e — Weight Initialization Strategies](YOUTUBE_LINK_HERE)
 
-#### TensorFlow Implementation
-- **Colab Notebook**: [Monte Carlo Dropout — TensorFlow](COLAB_LINK_HERE)
-- **Video Explanation**: [Monte Carlo Dropout — TensorFlow](YOUTUBE_LINK_HERE)
+### Part 1f — Batch Normalization
 
-#### PyTorch Implementation
-- **Colab Notebook**: [Monte Carlo Dropout — PyTorch](COLAB_LINK_HERE)
-- **Video Explanation**: [Monte Carlo Dropout — PyTorch](YOUTUBE_LINK_HERE)
+- **Colab Notebook**: [Part1f — Batch Normalization (TensorFlow & PyTorch)](COLAB_LINK_HERE)
+- **Video Explanation**: [Part1f — Batch Normalization](YOUTUBE_LINK_HERE)
 
-### E. Weight Initialization Techniques
+### Part 1g — Custom Dropout and Custom Regularization
 
-#### TensorFlow Implementation
-- **Colab Notebook**: [Weight Initialization Strategies — TensorFlow](COLAB_LINK_HERE)
-- **Video Explanation**: [Weight Initialization Strategies — TensorFlow](YOUTUBE_LINK_HERE)
+- **Colab Notebook**: [Part1g — Custom Dropout & Regularization (TensorFlow & PyTorch)](COLAB_LINK_HERE)
+- **Video Explanation**: [Part1g — Custom Dropout & Regularization](YOUTUBE_LINK_HERE)
 
-#### PyTorch Implementation
-- **Colab Notebook**: [Weight Initialization Strategies — PyTorch](COLAB_LINK_HERE)
-- **Video Explanation**: [Weight Initialization Strategies — PyTorch](YOUTUBE_LINK_HERE)
+### Part 1h — Callbacks and TensorBoard
 
-### F. Batch Normalization
+- **Colab Notebook**: [Part1h — Callbacks & TensorBoard (TensorFlow & PyTorch)](COLAB_LINK_HERE)
+- **Video Explanation**: [Part1h — Callbacks & TensorBoard](YOUTUBE_LINK_HERE)
 
-#### TensorFlow Implementation
-- **Colab Notebook**: [Batch Normalization — TensorFlow](COLAB_LINK_HERE)
-- **Video Explanation**: [Batch Normalization — TensorFlow](YOUTUBE_LINK_HERE)
+### Part 1i — Keras Tuner
 
-#### PyTorch Implementation
-- **Colab Notebook**: [Batch Normalization — PyTorch](COLAB_LINK_HERE)
-- **Video Explanation**: [Batch Normalization — PyTorch](YOUTUBE_LINK_HERE)
+- **Colab Notebook**: [Part1i — Hyperparameter Tuning with Keras Tuner](COLAB_LINK_HERE)
+- **Video Explanation**: [Part1i — Hyperparameter Tuning with Keras Tuner](YOUTUBE_LINK_HERE)
 
-### G. Custom Dropout and Custom Regularization
+### Part 1j — KerasCV Data Augmentation
 
-#### TensorFlow Implementation
-- **Colab Notebook**: [Custom Dropout & Regularization — TensorFlow](COLAB_LINK_HERE)
-- **Video Explanation**: [Custom Dropout & Regularization — TensorFlow](YOUTUBE_LINK_HERE)
+- **Colab Notebook**: [Part1j — Data Augmentation with KerasCV](COLAB_LINK_HERE)
+- **Video Explanation**: [Part1j — Data Augmentation with KerasCV](YOUTUBE_LINK_HERE)
 
-#### PyTorch Implementation
-- **Colab Notebook**: [Custom Dropout & Regularization — PyTorch](COLAB_LINK_HERE)
-- **Video Explanation**: [Custom Dropout & Regularization — PyTorch](YOUTUBE_LINK_HERE)
+### Part 1k — Multi-Domain Data Augmentation (Image, Text, Audio, Time Series, Tabular, Video, Document Images)
 
-### H. Callbacks and TensorBoard
-
-#### TensorFlow Implementation
-- **Colab Notebook**: [Callbacks & TensorBoard — TensorFlow](COLAB_LINK_HERE)
-- **Video Explanation**: [Callbacks & TensorBoard — TensorFlow](YOUTUBE_LINK_HERE)
-
-#### PyTorch Implementation
-- **Colab Notebook**: [Callbacks & TensorBoard — PyTorch](COLAB_LINK_HERE)
-- **Video Explanation**: [Callbacks & TensorBoard — PyTorch](YOUTUBE_LINK_HERE)
-
-### I. Keras Tuner
-
-- **Colab Notebook**: [Hyperparameter Tuning with Keras Tuner](COLAB_LINK_HERE)
-- **Video Explanation**: [Hyperparameter Tuning with Keras Tuner](YOUTUBE_LINK_HERE)
-
-### J. KerasCV Data Augmentation
-
-- **Colab Notebook**: [Data Augmentation with KerasCV](COLAB_LINK_HERE)
-- **Video Explanation**: [Data Augmentation with KerasCV](YOUTUBE_LINK_HERE)
-
-### K. Data Augmentation by Domain
-
-#### Image Data Augmentation
-- **Colab Notebook**: [Image Data Augmentation & Classification](COLAB_LINK_HERE)
-- **Video Explanation**: [Image Data Augmentation & Classification](YOUTUBE_LINK_HERE)
-
-#### Text Data Augmentation (NLPAug)
-- **Colab Notebook**: [Text Data Augmentation & Classification](COLAB_LINK_HERE)
-- **Video Explanation**: [Text Data Augmentation & Classification](YOUTUBE_LINK_HERE)
-
-#### Audio / Speech Data Augmentation
-- **Colab Notebook**: [Audio & Speech Data Augmentation](COLAB_LINK_HERE)
-- **Video Explanation**: [Audio & Speech Data Augmentation](YOUTUBE_LINK_HERE)
-
-#### Time Series Data Augmentation
-- **Colab Notebook**: [Time Series Data Augmentation & Classification](COLAB_LINK_HERE)
-- **Video Explanation**: [Time Series Data Augmentation & Classification](YOUTUBE_LINK_HERE)
-
-#### Tabular Data Augmentation
-- **Colab Notebook**: [Tabular Data Augmentation (SMOTE & More)](COLAB_LINK_HERE)
-- **Video Explanation**: [Tabular Data Augmentation (SMOTE & More)](YOUTUBE_LINK_HERE)
-
-#### Video Data Augmentation
-- **Colab Notebook**: [Video Data Augmentation](COLAB_LINK_HERE)
-- **Video Explanation**: [Video Data Augmentation](YOUTUBE_LINK_HERE)
-
-#### Document Images Data Augmentation
-- **Colab Notebook**: [Document Image Data Augmentation](COLAB_LINK_HERE)
-- **Video Explanation**: [Document Image Data Augmentation](YOUTUBE_LINK_HERE)
+- **Colab Notebook**: [Part1k — Multi-Domain Data Augmentation & Classification](COLAB_LINK_HERE)
+- **Video Explanation**: [Part1k — Multi-Domain Data Augmentation & Classification](YOUTUBE_LINK_HERE)
 
 ---
 
 ## Part 2: Advanced Keras and PyTorch Constructs
 
-### I. Custom Learning Rate Scheduler
+### Part 2i — Custom Learning Rate Scheduler
 
-#### TensorFlow/Keras Implementation
-- **Colab Notebook**: [Custom Learning Rate Schedulers — TensorFlow](COLAB_LINK_HERE)
-- **Video Explanation**: [Custom Learning Rate Schedulers — TensorFlow](YOUTUBE_LINK_HERE)
+- **Colab Notebook**: [Part2i — Custom Learning Rate Schedulers (TensorFlow & PyTorch)](COLAB_LINK_HERE)
+- **Video Explanation**: [Part2i — Custom Learning Rate Schedulers](YOUTUBE_LINK_HERE)
 
-#### PyTorch Implementation
-- **Colab Notebook**: [Custom Learning Rate Schedulers — PyTorch](COLAB_LINK_HERE)
-- **Video Explanation**: [Custom Learning Rate Schedulers — PyTorch](YOUTUBE_LINK_HERE)
+### Part 2ii — Custom Dropout (MCAlphaDropout)
 
-### II. Custom Dropout (MCAlphaDropout)
+- **Colab Notebook**: [Part2ii — MCAlphaDropout & Custom Dropout (TensorFlow & PyTorch)](COLAB_LINK_HERE)
+- **Video Explanation**: [Part2ii — MCAlphaDropout & Custom Dropout](YOUTUBE_LINK_HERE)
 
-#### TensorFlow/Keras Implementation
-- **Colab Notebook**: [MCAlphaDropout & Custom Dropout — TensorFlow](COLAB_LINK_HERE)
-- **Video Explanation**: [MCAlphaDropout & Custom Dropout — TensorFlow](YOUTUBE_LINK_HERE)
+### Part 2iii — Custom Normalization (MaxNormDense)
 
-#### PyTorch Implementation
-- **Colab Notebook**: [MCAlphaDropout & Custom Dropout — PyTorch](COLAB_LINK_HERE)
-- **Video Explanation**: [MCAlphaDropout & Custom Dropout — PyTorch](YOUTUBE_LINK_HERE)
+- **Colab Notebook**: [Part2iii — MaxNormDense & Custom Normalization (TensorFlow & PyTorch)](COLAB_LINK_HERE)
+- **Video Explanation**: [Part2iii — MaxNormDense & Custom Normalization](YOUTUBE_LINK_HERE)
 
-### III. Custom Normalization (MaxNormDense)
+### Part 2iv — TensorBoard Integration
 
-#### TensorFlow/Keras Implementation
-- **Colab Notebook**: [MaxNormDense & Custom Normalization — TensorFlow](COLAB_LINK_HERE)
-- **Video Explanation**: [MaxNormDense & Custom Normalization — TensorFlow](YOUTUBE_LINK_HERE)
+- **Colab Notebook**: [Part2iv — Advanced TensorBoard Usage (TensorFlow & PyTorch)](COLAB_LINK_HERE)
+- **Video Explanation**: [Part2iv — Advanced TensorBoard Usage](YOUTUBE_LINK_HERE)
 
-#### PyTorch Implementation
-- **Colab Notebook**: [MaxNormDense & Custom Normalization — PyTorch](COLAB_LINK_HERE)
-- **Video Explanation**: [MaxNormDense & Custom Normalization — PyTorch](YOUTUBE_LINK_HERE)
+### Part 2v — Custom Loss Function (HuberLoss)
 
-### IV. TensorBoard Integration
+- **Colab Notebook**: [Part2v — Custom Loss Functions / HuberLoss (TensorFlow & PyTorch)](COLAB_LINK_HERE)
+- **Video Explanation**: [Part2v — Custom Loss Functions / HuberLoss](YOUTUBE_LINK_HERE)
 
-#### TensorFlow/Keras Implementation
-- **Colab Notebook**: [Advanced TensorBoard — TensorFlow](COLAB_LINK_HERE)
-- **Video Explanation**: [Advanced TensorBoard — TensorFlow](YOUTUBE_LINK_HERE)
+### Part 2vi — Custom Activation, Initializer, Regularizer, and Constraints
 
-#### PyTorch Implementation
-- **Colab Notebook**: [Advanced TensorBoard — PyTorch](COLAB_LINK_HERE)
-- **Video Explanation**: [Advanced TensorBoard — PyTorch](YOUTUBE_LINK_HERE)
+- **Colab Notebook**: [Part2vi — Custom Activation, Initializer, Regularizer & Constraints (TensorFlow & PyTorch)](COLAB_LINK_HERE)
+- **Video Explanation**: [Part2vi — Custom Activation, Initializer, Regularizer & Constraints](YOUTUBE_LINK_HERE)
 
-### V. Custom Loss Function (HuberLoss)
+### Part 2vii — Custom Metric (HuberMetric)
 
-#### TensorFlow/Keras Implementation
-- **Colab Notebook**: [Custom Loss Functions (HuberLoss) — TensorFlow](COLAB_LINK_HERE)
-- **Video Explanation**: [Custom Loss Functions (HuberLoss) — TensorFlow](YOUTUBE_LINK_HERE)
+- **Colab Notebook**: [Part2vii — Custom Metrics / HuberMetric (TensorFlow & PyTorch)](COLAB_LINK_HERE)
+- **Video Explanation**: [Part2vii — Custom Metrics / HuberMetric](YOUTUBE_LINK_HERE)
 
-#### PyTorch Implementation
-- **Colab Notebook**: [Custom Loss Functions (HuberLoss) — PyTorch](COLAB_LINK_HERE)
-- **Video Explanation**: [Custom Loss Functions (HuberLoss) — PyTorch](YOUTUBE_LINK_HERE)
+### Part 2viii — Custom Layers
 
-### VI. Custom Activation, Initializer, Regularizer, and Constraints
+- **Colab Notebook**: [Part2viii — Custom Layers: MyDense, GaussianNoise, Attention (TensorFlow & PyTorch)](COLAB_LINK_HERE)
+- **Video Explanation**: [Part2viii — Custom Layers: MyDense, GaussianNoise, Attention](YOUTUBE_LINK_HERE)
 
-#### TensorFlow/Keras Implementation
-- **Colab Notebook**: [Custom Activation, Initializer, Regularizer & Constraints — TensorFlow](COLAB_LINK_HERE)
-- **Video Explanation**: [Custom Activation, Initializer, Regularizer & Constraints — TensorFlow](YOUTUBE_LINK_HERE)
+### Part 2ix — Custom Model (ResidualRegressor)
 
-#### PyTorch Implementation
-- **Colab Notebook**: [Custom Activation, Initializer, Regularizer & Constraints — PyTorch](COLAB_LINK_HERE)
-- **Video Explanation**: [Custom Activation, Initializer, Regularizer & Constraints — PyTorch](YOUTUBE_LINK_HERE)
+- **Colab Notebook**: [Part2ix — Custom Models / ResidualRegressor (TensorFlow & PyTorch)](COLAB_LINK_HERE)
+- **Video Explanation**: [Part2ix — Custom Models / ResidualRegressor](YOUTUBE_LINK_HERE)
 
-### VII. Custom Metric (HuberMetric)
+### Part 2x — Custom Optimizer (MyMomentumOptimizer)
 
-#### TensorFlow/Keras Implementation
-- **Colab Notebook**: [Custom Metrics (HuberMetric) — TensorFlow](COLAB_LINK_HERE)
-- **Video Explanation**: [Custom Metrics (HuberMetric) — TensorFlow](YOUTUBE_LINK_HERE)
+- **Colab Notebook**: [Part2x — Custom Optimizers: Momentum, Adam from Scratch (TensorFlow & PyTorch)](COLAB_LINK_HERE)
+- **Video Explanation**: [Part2x — Custom Optimizers: Momentum, Adam from Scratch](YOUTUBE_LINK_HERE)
 
-#### PyTorch Implementation
-- **Colab Notebook**: [Custom Metrics (HuberMetric) — PyTorch](COLAB_LINK_HERE)
-- **Video Explanation**: [Custom Metrics (HuberMetric) — PyTorch](YOUTUBE_LINK_HERE)
+### Part 2xi — Custom Training Loop
 
-### VIII. Custom Layers
+- **Colab Notebook**: [Part2xi — Custom Training Loop: GradientTape, Gradient Accumulation, Mixed Precision (TensorFlow & PyTorch)](COLAB_LINK_HERE)
+- **Video Explanation**: [Part2xi — Custom Training Loop](YOUTUBE_LINK_HERE)
 
-#### TensorFlow/Keras Implementation
-- **Colab Notebook**: [Custom Layers (MyDense, GaussianNoise, Attention) — TensorFlow](COLAB_LINK_HERE)
-- **Video Explanation**: [Custom Layers (MyDense, GaussianNoise, Attention) — TensorFlow](YOUTUBE_LINK_HERE)
+### Part 2xii — Weights & Biases Integration
 
-#### PyTorch Implementation
-- **Colab Notebook**: [Custom Layers (MyDense, GaussianNoise, Attention) — PyTorch](COLAB_LINK_HERE)
-- **Video Explanation**: [Custom Layers (MyDense, GaussianNoise, Attention) — PyTorch](YOUTUBE_LINK_HERE)
-
-### IX. Custom Model (ResidualRegressor)
-
-#### TensorFlow/Keras Implementation
-- **Colab Notebook**: [Custom Models (ResidualRegressor) — TensorFlow](COLAB_LINK_HERE)
-- **Video Explanation**: [Custom Models (ResidualRegressor) — TensorFlow](YOUTUBE_LINK_HERE)
-
-#### PyTorch Implementation
-- **Colab Notebook**: [Custom Models (ResidualRegressor) — PyTorch](COLAB_LINK_HERE)
-- **Video Explanation**: [Custom Models (ResidualRegressor) — PyTorch](YOUTUBE_LINK_HERE)
-
-### X. Custom Optimizer (MyMomentumOptimizer)
-
-#### TensorFlow/Keras Implementation
-- **Colab Notebook**: [Custom Optimizers (Momentum, Adam from Scratch) — TensorFlow](COLAB_LINK_HERE)
-- **Video Explanation**: [Custom Optimizers (Momentum, Adam from Scratch) — TensorFlow](YOUTUBE_LINK_HERE)
-
-#### PyTorch Implementation
-- **Colab Notebook**: [Custom Optimizers (Momentum, Adam from Scratch) — PyTorch](COLAB_LINK_HERE)
-- **Video Explanation**: [Custom Optimizers (Momentum, Adam from Scratch) — PyTorch](YOUTUBE_LINK_HERE)
-
-### XI. Custom Training Loop
-
-#### TensorFlow/Keras Implementation
-- **Colab Notebook**: [Custom Training Loop (GradientTape) — TensorFlow](COLAB_LINK_HERE)
-- **Video Explanation**: [Custom Training Loop (GradientTape) — TensorFlow](YOUTUBE_LINK_HERE)
-
-#### PyTorch Implementation
-- **Colab Notebook**: [Custom Training Loop (Gradient Accumulation, Mixed Precision) — PyTorch](COLAB_LINK_HERE)
-- **Video Explanation**: [Custom Training Loop (Gradient Accumulation, Mixed Precision) — PyTorch](YOUTUBE_LINK_HERE)
-
-### XII. Weights & Biases Integration
-
-#### TensorFlow/Keras Implementation
-- **Colab Notebook**: [ML Training with Weights & Biases — TensorFlow](COLAB_LINK_HERE)
-- **Video Explanation**: [ML Training with Weights & Biases — TensorFlow](YOUTUBE_LINK_HERE)
-
-#### PyTorch Implementation
-- **Colab Notebook**: [ML Training with Weights & Biases — PyTorch](COLAB_LINK_HERE)
-- **Video Explanation**: [ML Training with Weights & Biases — PyTorch](YOUTUBE_LINK_HERE)
+- **Colab Notebook**: [Part2xii — ML Training with Weights & Biases (TensorFlow & PyTorch)](COLAB_LINK_HERE)
+- **Video Explanation**: [Part2xii — ML Training with Weights & Biases](YOUTUBE_LINK_HERE)
 
 ---
 
@@ -260,4 +135,5 @@
 - [Awesome Data Augmentation](https://brunokrinski.github.io/awesome-data-augmentation/)
 - [AugLy — Facebook Research](https://github.com/facebookresearch/AugLy)
 - [Data Augmentation Review](https://github.com/AgaMiko/data-augmentation-review)
+
 
