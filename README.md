@@ -17,7 +17,7 @@ This repository contains Google Colab notebooks covering regularization, data au
 - **Coverage**: Weight Initialization (Xavier, He, LeCun, Orthogonal), Batch Normalization, Layer Normalization, Group Normalization (Part 1e–f)
 
 ### 3) `03_Custom_Dropout_Regularization_TF_PyTorch.ipynb`
-- **Colab Notebook**: [Colab Link](COLAB_LINK_HERE)
+- **Colab Notebook**: [Colab Link](https://colab.research.google.com/drive/1m_qZPJufZ5u0OeJzApEeFAStNY1yGoo9)
 - **Video Explanation**: [YouTube Link](YOUTUBE_LINK_HERE)
 - **Coverage**: Custom Dropout Variants (Alpha, Gaussian, Concrete, DropBlock), Custom Regularizers (Orthogonal, Spectral, Activity) (Part 1g)
 
