@@ -7,7 +7,7 @@ This repository contains Google Colab notebooks covering regularization, data au
 ## Notebooks
 
 ### 1) `01_Regularization_Techniques_TF_PyTorch.ipynb`
-- **Colab Notebook**: [Colab Link](COLAB_LINK_HERE)
+- **Colab Notebook**: [Colab Link](https://colab.research.google.com/drive/1LLGjlGfGKPLpPXU4s8OnqDUG5shoLq6E?usp=sharing)
 - **Video Explanation**: [YouTube Link](YOUTUBE_LINK_HERE)
 - **Coverage**: L1/L2 Regularization, Dropout, Early Stopping, Monte Carlo Dropout (Part 1a–d)
 
