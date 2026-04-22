@@ -12,7 +12,7 @@ This repository contains Google Colab notebooks covering regularization, data au
 - **Coverage**: L1/L2 Regularization, Dropout, Early Stopping, Monte Carlo Dropout (Part 1a–d)
 
 ### 2) `02_Initialization_BatchNorm_TF_PyTorch.ipynb`
-- **Colab Notebook**: [Colab Link](COLAB_LINK_HERE)
+- **Colab Notebook**: [Colab Link](https://colab.research.google.com/drive/1ZRDs7_169Zd7W4Bolr2vm0IJaeX3YdOl#scrollTo=LWW6YtRRwRS4)
 - **Video Explanation**: [YouTube Link](YOUTUBE_LINK_HERE)
 - **Coverage**: Weight Initialization (Xavier, He, LeCun, Orthogonal), Batch Normalization, Layer Normalization, Group Normalization (Part 1e–f)
 
