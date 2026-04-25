@@ -22,37 +22,37 @@ This repository contains Google Colab notebooks covering regularization, data au
 - **Coverage**: Custom Dropout Variants (Alpha, Gaussian, Concrete, DropBlock), Custom Regularizers (Orthogonal, Spectral, Activity) (Part 1g)
 
 ### 4) `04_Callbacks_Tensorboard_KerasTuner.ipynb`
-- **Colab Notebook**: [Colab Link](COLAB_LINK_HERE)
+- **Colab Notebook**: [Colab Link](https://colab.research.google.com/drive/1gMp9__7-7PsOUncTITImh8bJGUmcRbRb?usp=sharing)
 - **Video Explanation**: [YouTube Link](YOUTUBE_LINK_HERE)
 - **Coverage**: Callbacks (ModelCheckpoint, EarlyStopping, ReduceLROnPlateau, Custom), TensorBoard, Keras Tuner Hyperparameter Tuning (Part 1h–i)
 
 ### 5) `05_KerasCV_Data_Augmentation.ipynb`
-- **Colab Notebook**: [Colab Link](COLAB_LINK_HERE)
+- **Colab Notebook**: [Colab Link](https://colab.research.google.com/drive/1N6CezbHXnV7DGeX0oHIh5-35gm4lvyyS?usp=sharing)
 - **Video Explanation**: [YouTube Link](YOUTUBE_LINK_HERE)
 - **Coverage**: KerasCV Data Augmentation — RandAugment, CutMix, MixUp, RandomCutout, Solarization, GridMask (Part 1j)
 
 ### 6) `06_AugLy_MultiModal_Augmentation.ipynb`
-- **Colab Notebook**: [Colab Link](COLAB_LINK_HERE)
+- **Colab Notebook**: [Colab Link](https://colab.research.google.com/drive/1SDGxg7lGM8mL0x67eM_s_gBswrgBMEUh?usp=sharing)
 - **Video Explanation**: [YouTube Link](YOUTUBE_LINK_HERE)
 - **Coverage**: Multi-Domain Data Augmentation — Image, Text (nlpaug), Audio, Time Series, Tabular (SMOTE), Video (Part 1k)
 
 ### 7) `07_Advanced_Keras_Custom_Components.ipynb`
-- **Colab Notebook**: [Colab Link](COLAB_LINK_HERE)
+- **Colab Notebook**: [Colab Link](https://colab.research.google.com/drive/1UBlZAsk9xQ6bE1qh3-jtOK7kGlUlRuzx?usp=sharing)
 - **Video Explanation**: [YouTube Link](YOUTUBE_LINK_HERE)
 - **Coverage**: TensorFlow/Keras — Custom LR Scheduler, Custom Dropout (MCAlphaDropout), Custom Normalization (MaxNormDense), TensorBoard, Custom Loss (HuberLoss), Custom Activation/Initializer/Regularizer/Constraint, Custom Metric (HuberMetric), Custom Layers (MyDense, GaussianNoise, Attention), Custom Model (ResidualRegressor) (Part 2 i–ix)
 
 ### 8) `08_Custom_Optimizer_Training_Loop.ipynb`
-- **Colab Notebook**: [Colab Link](COLAB_LINK_HERE)
+- **Colab Notebook**: [Colab Link](https://colab.research.google.com/drive/1rK1AqYXQ0jLJikhYaOTydZE4h9hulrQe?usp=sharing)
 - **Video Explanation**: [YouTube Link](YOUTUBE_LINK_HERE)
 - **Coverage**: Custom Optimizer (MyMomentumOptimizer, Adam from Scratch), Custom Training Loop (GradientTape, Gradient Accumulation, Mixed Precision) (Part 2 x–xi)
 
 ### 9) `09_Weights_and_Biases_Integration.ipynb`
-- **Colab Notebook**: [Colab Link](COLAB_LINK_HERE)
+- **Colab Notebook**: [Colab Link](https://colab.research.google.com/drive/1VoECJVrfurO5XLOYLcHG72t7SVobkDE-?usp=sharing)
 - **Video Explanation**: [YouTube Link](YOUTUBE_LINK_HERE)
 - **Coverage**: Weights & Biases Experiment Tracking — wandb.init, wandb.log, wandb.watch, Sweeps, Artifacts, Alerts (Part 2 xii)
 
 ### 10) `10_Advanced_PyTorch_Custom_Components.ipynb`
-- **Colab Notebook**: [Colab Link](COLAB_LINK_HERE)
+- **Colab Notebook**: [Colab Link](https://colab.research.google.com/drive/1yjsULf2UfRzKQ7jqzJn4AyLMecWEaKu8)
 - **Video Explanation**: [YouTube Link](YOUTUBE_LINK_HERE)
 - **Coverage**: PyTorch — Custom LR Scheduler, Custom Dropout, Custom Normalization, Custom Loss, Custom Activation/Initializer/Regularizer/Constraint, Custom Metric, Custom Layers, Custom Model, Custom Optimizer, Custom Training Loop (Part 2 i–xi)
 
