@@ -52,7 +52,7 @@ This repository contains Google Colab notebooks covering regularization, data au
 - **Coverage**: Weights & Biases Experiment Tracking — wandb.init, wandb.log, wandb.watch, Sweeps, Artifacts, Alerts (Part 2 xii)
 
 ### 10) `10_Advanced_PyTorch_Custom_Components.ipynb`
-- **Colab Notebook**: [Colab Link](https://colab.research.google.com/drive/1yjsULf2UfRzKQ7jqzJn4AyLMecWEaKu8)
+- **Colab Notebook**: [Colab Link](https://colab.research.google.com/drive/1yjsULf2UfRzKQ7jqzJn4AyLMecWEaKu8?usp=sharing)
 - **Video Explanation**: [YouTube Link](YOUTUBE_LINK_HERE)
 - **Coverage**: PyTorch — Custom LR Scheduler, Custom Dropout, Custom Normalization, Custom Loss, Custom Activation/Initializer/Regularizer/Constraint, Custom Metric, Custom Layers, Custom Model, Custom Optimizer, Custom Training Loop (Part 2 i–xi)
 
